@@ -1,0 +1,45 @@
+{
+    "name": "vue-colorful-slider",
+    "version": "1.0.0",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "module": "src/colorfullslider.js",
+    "dependencies": {
+        "core-js": "^3.6.5",
+        "vue": "^2.6.11"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-eslint": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "eslint-plugin-vue": "^6.2.2",
+        "vue-template-compiler": "^2.6.11"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ],
+    "author": "https://github.com/Deadida322",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Deadida322/vue-colorful-slider.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Deadida322/vue-colorful-slider/issues"
+    },
+    "keywords": [
+        "vue-cli",
+        "3d",
+        "gallery",
+        "carousel",
+        "slider",
+        "vue",
+        "colorful",
+        "vue-colorful-slider"
+    ],
+    "license": "MIT"
+}
